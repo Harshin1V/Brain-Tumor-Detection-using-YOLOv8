@@ -1,4 +1,4 @@
-# Brain Tumor Detection using YOLOv8
+# Brain Tumor Detection 
 In this project we have used different sizes of the YOLOv8 model to detect ansd classsify brain tumor in the MRI images
 ## Dataset 
 [Link To Dataset](https://www.kaggle.com/datasets/ammarahmed310/labeled-mri-brain-tumor-dataset)<br>
